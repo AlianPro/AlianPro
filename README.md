@@ -1,16 +1,34 @@
-### Hi there 👋
+<p align = "center">
+<img src = "https://i.imgur.com/aEh6Vo0.gif" align = "center" />
+</p>
 
-<!--
-**AlianPro/AlianPro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# :fireworks: Alian Carvalho
 
-Here are some ideas to get you started:
+Backend Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Here's a summary. 📃
+
+- 🔭 I am currently focused on **improving my knowledge** and getting my yes in the development area.
+- 🌱 Course **Computer Science** by **Federal Rural University of Rio de Janeiro**.
+- 👯 I want to contribute with **Back-end** projects that use **Spring**.
+
+[![](https://img.shields.io/badge/Linkedin-Lets%20be%20friends-add8e6)](https://www.linkedin.com/in/alianpro)
+<details id="pt">
+  <summary>PT/BR:brazil:</summary>
+<p align="center">
+<img src="https://i.imgur.com/aEh6Vo0.gif" align="center"/>
+</p>
+  
+# :fireworks: Alian Carvalho
+
+Desenvolvedor Back-end
+
+### Segue um resuminho. 📃
+
+- 🔭 Atualmente estou focado em **aprimorar meus conhecimentos** e conseguir meu sim na área de desenvolvimento.
+- 🌱 Curso **Ciência da Computação** pela **Universidade Federal Rural do Rio de janeiro**.
+- 👯 Quero contribuir com projetos de **Back-end** que utilizem **Spring**.
+  
+  
+[![](https://img.shields.io/badge/Linkedin-Lets%20be%20friends-add8e6)](https://www.linkedin.com/in/alianpro)
+  </details>
