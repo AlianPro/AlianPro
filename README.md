@@ -8,7 +8,7 @@ Backend Developer
 
 ### Here's a summary. 📃
 
-- 🔭 I am currently focused on **improving my knowledge** and getting my yes in the development area.
+- 🔭 I am currently focused on **improving my knowledge**.
 - 🌱 Course **Computer Science** by **Federal Rural University of Rio de Janeiro**.
 - 👯 I want to contribute with **Back-end** projects that use **Spring**.
 
@@ -25,7 +25,7 @@ Desenvolvedor Back-end
 
 ### Segue um resuminho. 📃
 
-- 🔭 Atualmente estou focado em **aprimorar meus conhecimentos** e conseguir meu sim na área de desenvolvimento.
+- 🔭 Atualmente estou focado em **aprimorar meus conhecimentos**.
 - 🌱 Curso **Ciência da Computação** pela **Universidade Federal Rural do Rio de janeiro**.
 - 👯 Quero contribuir com projetos de **Back-end** que utilizem **Spring**.
   
