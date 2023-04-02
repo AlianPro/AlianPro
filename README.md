@@ -9,8 +9,7 @@ Backend Developer
 ### Here's a summary. 📃
 
 - 🔭 I am currently focused on **improving my knowledge**.
-- 🌱 Course **Computer Science** by **Federal Rural University of Rio de Janeiro**.
-- 👯 I want to contribute with **Back-end** projects that use **Spring**.
+- 🌱 Graduated in **Computer Science** from **Federal Rural University of Rio de Janeiro**.
 
 [![](https://img.shields.io/badge/Linkedin-Lets%20be%20friends-add8e6)](https://www.linkedin.com/in/alianpro)
 <details id="pt">
@@ -26,8 +25,7 @@ Desenvolvedor Back-end
 ### Segue um resuminho. 📃
 
 - 🔭 Atualmente estou focado em **aprimorar meus conhecimentos**.
-- 🌱 Curso **Ciência da Computação** pela **Universidade Federal Rural do Rio de janeiro**.
-- 👯 Quero contribuir com projetos de **Back-end** que utilizem **Spring**.
+- 🌱 Formado em **Ciência da Computação** pela **Universidade Federal Rural do Rio de janeiro**.
   
   
 [![](https://img.shields.io/badge/Linkedin-Lets%20be%20friends-add8e6)](https://www.linkedin.com/in/alianpro)
