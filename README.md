@@ -4,7 +4,7 @@
 
 # :fireworks: Alian Carvalho
 
-Backend Developer
+Full-Stack Developer
 
 ### Here's a summary. 📃
 
@@ -20,7 +20,7 @@ Backend Developer
   
 # :fireworks: Alian Carvalho
 
-Desenvolvedor Back-end
+Desenvolvedor Full-Stack
 
 ### Segue um resuminho. 📃
 
